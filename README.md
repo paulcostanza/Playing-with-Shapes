@@ -1,2 +1,3 @@
-# Playing-with-Shapes
-Play with and manipulate geometric shapes
+# Cube Project
+
+Unfinished cube project. Just the boilerplate for the project, for now...
